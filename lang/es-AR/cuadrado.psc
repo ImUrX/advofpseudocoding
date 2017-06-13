@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	Escribir '¿De cuantos asteriscos sera cada lado?'
+	Escribir 'Â¿De cuantos asteriscos sera cada lado?'
 	Leer lado
 	Segun lado  Hacer
 		0:
@@ -18,7 +18,7 @@ Algoritmo sin_titulo
 			Escribir '777'
 		De Otro Modo:
 			Si lado > 58 Entonces
-				Escribir '¿Te gusta explotar la PC?'
+				Escribir 'Â¿Te gusta explotar la PC?'
 			SiNo
 				Repetir
 					Escribir '*' Sin Saltar
