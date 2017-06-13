@@ -13,7 +13,7 @@ Algoritmo sin_titulo
 				dado = azar(5)+1
 			SiNo
 				Repetir
-					Escribir "Error, dé un numero entre 1 y 6"
+					Escribir "Error, dÃ© un numero entre 1 y 6"
 					Leer nro1
 				Hasta Que nro1 < 7 y nro1 > 0
 				dado = azar(5)+1
@@ -25,7 +25,7 @@ Algoritmo sin_titulo
 				dado = azar(11)+1
 			SiNo
 				Repetir
-					Escribir "Error, dé un numero entre 1 y 12"
+					Escribir "Error, dÃ© un numero entre 1 y 12"
 					Leer nro1
 				Hasta Que nro1 < 13 y nro1 > 0
 				dado = azar(11)+1
@@ -37,7 +37,7 @@ Algoritmo sin_titulo
 				dado = azar(23)+1
 			SiNo
 				Repetir
-					Escribir "Error, dé un numero entre 1 y 24"
+					Escribir "Error, dÃ© un numero entre 1 y 24"
 					Leer nro1
 				Hasta Que nro1 < 25 y nro1 > 0
 				dado = azar(23)+1
@@ -49,7 +49,7 @@ Algoritmo sin_titulo
 				dado = azar(47)+1
 			SiNo
 				Repetir
-					Escribir "Error, dé un numero entre 1 y 48"
+					Escribir "Error, dÃ© un numero entre 1 y 48"
 					Leer nro1
 				Hasta Que nro1 < 49 y nro1 > 0
 				dado = azar(47)+1
