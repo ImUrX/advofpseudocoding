@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	Escribir 'Introduzca la calificación'
+	Escribir 'Introduzca la calificaciÃ³n'
 	Leer cal
 	Repetir
 		Escribir "Entre 1 y 10"
