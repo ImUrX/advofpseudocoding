@@ -89,7 +89,7 @@ Algoritmo sin_titulo
 				Escribir "Entonces, tu genero es femenino, elegiste la clase Bruja y tus stats son los siguientes:"
 			De Otro Modo:
 				Si virginclass = 1 Entonces
-					Escribir "Entonces, tu genero es femenino, por alguna razón tu clase es Elfa y tus stats son los siguientes:"
+					Escribir "Entonces, tu genero es femenino, por alguna razÃ³n tu clase es Elfa y tus stats son los siguientes:"
 				FinSi
 		FinSegun
 	SiNo
@@ -102,7 +102,7 @@ Algoritmo sin_titulo
 				Escribir "Entonces, tu genero es femenino, elegiste la clase Bruja y tus stats son los siguientes:"
 			De Otro Modo:
 				Si virginclass = 1 Entonces
-					Escribir "Entonces, tu genero es femenino, por alguna razón tu clase es Virgo y tus stats son los siguientes:"
+					Escribir "Entonces, tu genero es femenino, por alguna razÃ³n tu clase es Virgo y tus stats son los siguientes:"
 				FinSi
 		FinSegun
 	FinSi
