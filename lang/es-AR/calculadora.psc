@@ -11,25 +11,25 @@ Algoritmo sin_titulo
 	Leer operacion
 	Si operacion=1 Entonces
 		Escribir 'El calculo sera el siguiente: ',nro1,'+',nro2
-		Escribir '¿Esta seguro? (Aprete una tecla)'
+		Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 		Esperar Tecla
 		resultado <- nro1+nro2
 	SiNo
 		Si operacion=2 Entonces
 			Escribir 'El calculo sera el siguiente: ',nro1,'-',nro2
-			Escribir '¿Esta seguro? (Aprete una tecla)'
+			Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 			Esperar Tecla
 			resultado <- nro1-nro2
 		SiNo
 			Si operacion=3 Entonces
 				Escribir 'El calculo sera el siguiente: ',nro1,'*',nro2
-				Escribir '¿Esta seguro? (Aprete una tecla)'
+				Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 				Esperar Tecla
 				resultado <- nro1*nro2
 			SiNo
 				Si operacion=4 Entonces
 					Escribir 'El calculo sera el siguiente: ',nro1,'/',nro2
-					Escribir '¿Esta seguro? (Aprete una tecla)'
+					Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 					Esperar Tecla
 					resultado <- nro1/nro2
 				FinSi
@@ -52,25 +52,25 @@ Algoritmo sin_titulo
 			Leer operacion
 			Si operacion=1 Entonces
 				Escribir 'El calculo sera el siguiente: ',nro1,'+',nro2
-				Escribir '¿Esta seguro? (Aprete una tecla)'
+				Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 				Esperar Tecla
 				resultado <- nro1+nro2
 			SiNo
 				Si operacion=2 Entonces
 					Escribir 'El calculo sera el siguiente: ',nro1,'-',nro2
-					Escribir '¿Esta seguro? (Aprete una tecla)'
+					Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 					Esperar Tecla
 					resultado <- nro1-nro2
 				SiNo
 					Si operacion=3 Entonces
 						Escribir 'El calculo sera el siguiente: ',nro1,'*',nro2
-						Escribir '¿Esta seguro? (Aprete una tecla)'
+						Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 						Esperar Tecla
 						resultado <- nro1*nro2
 					SiNo
 						Si operacion=4 Entonces
 							Escribir 'El calculo sera el siguiente: ',nro1,'/',nro2
-							Escribir '¿Esta seguro? (Aprete una tecla)'
+							Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 							Esperar Tecla
 							resultado <- nro1/nro2
 						FinSi
@@ -95,25 +95,25 @@ Algoritmo sin_titulo
 			Leer operacion
 			Si operacion=1 Entonces
 				Escribir 'El calculo sera el siguiente: ',nro1,'+',nro2
-				Escribir '¿Esta seguro? (Aprete una tecla)'
+				Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 				Esperar Tecla
 				resultado <- nro1+nro2
 			SiNo
 				Si operacion=2 Entonces
 					Escribir 'El calculo sera el siguiente: ',nro1,'-',nro2
-					Escribir '¿Esta seguro? (Aprete una tecla)'
+					Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 					Esperar Tecla
 					resultado <- nro1-nro2
 				SiNo
 					Si operacion=3 Entonces
 						Escribir 'El calculo sera el siguiente: ',nro1,'*',nro2
-						Escribir '¿Esta seguro? (Aprete una tecla)'
+						Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 						Esperar Tecla
 						resultado <- nro1*nro2
 					SiNo
 						Si operacion=4 Entonces
 							Escribir 'El calculo sera el siguiente: ',nro1,'/',nro2
-							Escribir '¿Esta seguro? (Aprete una tecla)'
+							Escribir 'Â¿Esta seguro? (Aprete una tecla)'
 							Esperar Tecla
 							resultado <- nro1/nro2
 						FinSi
